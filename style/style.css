@@ -16,7 +16,9 @@ nav{
 }
 
 body{
-     background-color: #F5F5F5; 
+     background-color: #F5F5F5;
+     margin-right: 325px; 
+     margin-left: 325px ;
      
 }
 .nav-btn-sing-in{
@@ -28,8 +30,6 @@ body{
     border-radius: 6px;
 }
 .nav-div-class{
-    margin-right: 325px;
-    margin-left: 325px;
     height: 100px;
     display: flex;
     justify-content: space-between;
@@ -72,4 +72,143 @@ body{
     margin-top: 10px;
     border: none;
     border-radius: 8px;
+}
+/* The Vision of Future */
+.the-vision-of-future{
+    width: 1280px;
+    height: 765px;
+    margin: auto;
+}
+.future{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+    color: #0E0E0E;
+}
+.future-bangladesh-p{
+    font-weight: 400px;
+    font-size: 16px;
+    margin-top: 30px;
+    color: rgba(14, 14, 14, 0.7);   
+}
+
+/* card */
+
+.Digital-Transformation-div{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    width: 410.67px;
+    height: 325px;
+    padding: 0px 32px;
+    margin:32px auto;   
+}
+.D-img{
+    margin-top: 32px ;
+}
+.D-T-h{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 24px 0px;
+
+}
+.D-T-P{
+    font-size: 19px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin: 24px 0px;
+    line-height: 24px;
+}
+.D-T-Learn-More{
+    background-color: #5490F5;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 11px 20px 11px 20px;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600px;
+    margin-bottom: 32px;
+}
+/* Green Energy */
+ .Green-Energy-div{
+    background: rgb(198, 228, 214);
+    border-radius: 16px;
+    width: 410.67px;
+    height: 325px;
+    padding: 0px 32px;
+    margin:32px auto;   
+} 
+.G-img{
+    margin-top: 32px ;
+}
+    
+.G-E-h{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 24px 0px;
+
+}
+    
+.G-T-P{
+    font-size: 19px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin: 24px 0px;
+    line-height: 24px;
+}
+    
+.G-E-Learn-More{
+    background-color: rgb(9, 161, 92);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 11px 20px 11px 20px;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600px;
+    margin-bottom: 32px;
+}
+/* Modern Infrastructure */
+ .Modern-Infrastructure-div{
+    background: #F7EBCF;
+    border-radius: 16px;
+    width: 410.67px;
+    height: 325px;
+    padding: 0px 32px;
+    margin:32px auto;   
+}  
+    
+.M-img{
+    margin-top: 32px ;
+}
+ 
+.M-I-h{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 24px 0px;
+
+}
+    
+.M-I-P{
+    font-size: 19px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+    margin: 24px 0px;
+    line-height: 24px;
+}
+    
+.M-I-Learn-More{
+    background-color: #FFC239;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 11px 20px 11px 20px;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600px;
+    margin-bottom: 32px;
+}
+.future-card{
+    display: flex;
+    gap: 24px;
 }
