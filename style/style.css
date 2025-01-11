@@ -212,3 +212,30 @@ body{
     display: flex;
     gap: 24px;
 }
+/* Dr. Muhammad Yunus */
+
+.Dr-Muhammad-Yunus{
+    height: 256px;
+    padding: 10px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    
+    border-radius: 16px;
+    background: rgb(255, 255, 255);   
+}
+.quote-img{
+    padding-top: 15px;
+
+}
+.dr-M-Y-ph{
+    color: rgba(14, 14, 14, 0.8);
+    margin: 0px 24px;
+}
+.dr-m-Y-Hed{
+    color: rgba(14, 14, 14, 0.8);
+    margin: 10px 24px;
+}
+.dr-m-Y-p{
+    color: rgba(14, 14, 14, 0.6);
+    margin: 0px 24px;
+    
+}
