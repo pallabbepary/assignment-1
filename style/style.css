@@ -354,7 +354,14 @@ margin-top: 32px;
     margin-right: 25px;
     color: rgba(14, 14, 14, 0.7);
 }
-    
+.al-jazeera-read-more:hover {
+    background-color: lightblue;
+    cursor: pointer;
+  }
+.secent-al-jazeera-read-more:hover {
+    background-color: lightblue;
+    cursor: pointer;
+  }
 .secent-al-jazeera-read-more{
     color: rgb(255, 255, 255);
     font-size: 18px;
