@@ -63,6 +63,10 @@ body{
     height: 326px;
     align-items: center;
 }
+.bannar-btn:hover {
+    background-color: black;
+    cursor: pointer;
+  }
 .bannar-btn{
     background-color: #006A50;
     color: white;
@@ -118,6 +122,10 @@ body{
     margin: 24px 0px;
     line-height: 24px;
 }
+.D-T-Learn-More:hover {
+    background-color: black;
+    cursor: pointer;
+  }
 .D-T-Learn-More{
     background-color: #5490F5;
     color: white;
@@ -156,7 +164,10 @@ body{
     margin: 24px 0px;
     line-height: 24px;
 }
-    
+.G-E-Learn-More:hover {
+    background-color: black;
+    cursor: pointer;
+  } 
 .G-E-Learn-More{
     background-color: rgb(9, 161, 92);
     color: white;
@@ -196,7 +207,10 @@ body{
     margin: 24px 0px;
     line-height: 24px;
 }
-    
+.M-I-Learn-More:hover {
+    background-color: black;
+    cursor: pointer;
+  }  
 .M-I-Learn-More{
     background-color: #FFC239;
     color: white;
@@ -381,11 +395,14 @@ margin-top: 32px;
 .Donate-Today-Bangladesh{
     color: rgba(14, 14, 14, 0.7);
     font-size: 16px;
-    font-weight: 400;
-    
-    
-    
+    font-weight: 400;   
 }
+
+.frist-card:hover {
+    background-color: rgb(198, 228, 214);
+    cursor: pointer;
+  }
+
 .first-card:hover{
     background-color: #006A50;
 }
@@ -410,6 +427,10 @@ margin-top: 32px;
     padding-left: 100px;
 }
 /* secent-card */
+.secent-card:hover {
+    background-color: lightblue;
+    cursor: pointer;
+  }
 .secent-card{
     height: 128px;
     border-radius: 16px;
@@ -442,6 +463,10 @@ input::placeholder {
     text-align: center;
     color: rgba(14, 14, 14, 0.3);
   }
+  .Done-Now-btn:hover {
+    background-color: lightblue;
+    cursor: pointer;
+  }
   .Done-Now-btn{
     color: white;
     font-size: 18px;
@@ -465,10 +490,49 @@ input::placeholder {
     font-size: 40px;
     font-weight: 700;
     text-align: center;
-    margin-top: 80px
+    padding-top: 80px;
   }
-  .Subscribe-H-Prag{
-    width: 750px;
-    height: 112px;
-    align-items: center;
+  .Subscribe-Newsletter-prag{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 10px;
+    }
+ .enter-email{
+    width: 600px;
+    height: 55px;
+    border-radius: 8px 0px 0px 8px;
+    background: rgb(255, 255, 255);
+ }
+ .your-email-here{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px;
+    color: rgba(14, 14, 14, 0.3);
+ }
+ .Subscribe:hover {
+    background-color: lightblue;
+    cursor: pointer;
   }
+ .Subscribe{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    border: none;
+    padding: 17px 34px 17px 34px;
+    border-radius: 0px 8px 8px 0px;
+    background: rgb(0, 106, 80);
+ }
+ .enter-email-Subscribe-btn{
+    display: flex;
+    justify-content: center;
+    margin: 24px 0px;
+ }
+ .We-promise-not-to-spam-you{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin: 24px 0px;
+ }
