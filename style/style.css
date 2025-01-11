@@ -236,6 +236,131 @@ body{
 }
 .dr-m-Y-p{
     color: rgba(14, 14, 14, 0.6);
-    margin: 0px 24px;
+    margin: 0px 24px;   
+}
+/* Recent News */
+.Recent-News{
+    width: 1280px;
+    height: 1406px;
+}
+.recent-news-hed{
+font-size: 40px;
+font-weight: bold;
+color: rgb(14, 14, 14);
+}
+.recent-news-prag{
+    font-size: 16px;
+    font-weight: 400px;
+    margin-top: 20px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.R-N-bng-h-p{
+    margin-top: 45px;
+}
+.img-main-news-div{
+height: 402px;
+border-radius: 24px;
+background: rgb(255, 255, 255);
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+gap: 80px;
+margin-top: 32px;
+}
+.N-main-img-div{
+    width: 408px;
+    height: 306px;
+}
+.main-img{
+    border-radius: 24px;
+    margin-left: 40px;
+}
+.R-N{
+    margin-top: 32;
+}
+.Bng-L-N-S{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 12px 0px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.al-jazeera{
+    margin: 8px 0px;
+}
+.time-date{
+    color: rgba(14, 14, 14, 0.7);
+    margin: 14px 0px;
+}
+.Not-P{
+    margin-right: 25px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.al-jazeera-read-more{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 25px;
+    background: rgb(0, 106, 80);
+    border: none;
+    border-radius: 8px;
+    padding: 13px 26px 13px 26px;
+}
+
+/* secent-news style */
+
+ .img-secent-news-div{
+height: 402px;
+border-radius: 24px;
+background: rgb(255, 255, 255);
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+gap: 80px;
+margin-top: 32px;
+} 
+
+    
+.Bng-L-N-S-secent{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 12px 0px;
+    color: rgba(14, 14, 14, 0.8);
+}
+    
+.secent-al-jazeera{
+    margin: 8px 0px;
+}
+    
+.secent-time-date{
+    color: rgba(14, 14, 14, 0.7);
+    margin: 14px 0px;
+}
+    
+.secent-Not-P{
+    margin-right: 25px;
+    color: rgba(14, 14, 14, 0.7);
+}
+    
+.secent-al-jazeera-read-more{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 25px;
+    background: rgb(0, 106, 80);
+    border: none;
+    border-radius: 8px;
+    padding: 13px 26px 13px 26px;
+}
+.N-secent-img-div{
+    width: 408px;
+    height: 306px;
+    margin-right: 40px;
+}
+.secent-news-img{
+    border-radius: 24px;
+    margin: 0px 0px 0px ;
+}
+.secent-n-div{
+    margin-left: 48px;
     
 }
