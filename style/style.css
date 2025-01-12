@@ -77,6 +77,24 @@ body{
     border: none;
     border-radius: 8px;
 }
+
+/* Pillars of "Bangladesh 2.0" */
+.Pillars-of-Bangladesh{
+    width: 1280px;
+    height: 324px;
+}
+.pillars-of-bangladesh-hed{
+    font-size: 40px;
+    font-weight: bold;
+}
+.pillars-of-div{
+    width: 302px;
+    height: 244px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+
 /* The Vision of Future */
 .the-vision-of-future{
     width: 1280px;
@@ -230,27 +248,33 @@ body{
 
 .Dr-Muhammad-Yunus{
     height: 256px;
-    padding: 10px;
     border: 1px solid rgba(14, 14, 14, 0.15);
-    
+    position: relative;
     border-radius: 16px;
-    background: rgb(255, 255, 255);   
+    background: rgb(255, 255, 255); 
+    padding-left: 10px;  
 }
 .quote-img{
     padding-top: 15px;
+    position: absolute;
+    top: 0;
+    left: 10px;
 
 }
 .dr-M-Y-ph{
     color: rgba(14, 14, 14, 0.8);
-    margin: 0px 24px;
+    margin-top: 50px;
+    
 }
 .dr-m-Y-Hed{
     color: rgba(14, 14, 14, 0.8);
-    margin: 10px 24px;
+    margin-top: 10px ; 
+    
 }
 .dr-m-Y-p{
     color: rgba(14, 14, 14, 0.6);
-    margin: 0px 24px;   
+    margin-top: 10px;  
+      
 }
 /* Recent News */
 .Recent-News{
